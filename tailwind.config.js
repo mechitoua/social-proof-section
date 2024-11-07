@@ -4,16 +4,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        purple: {
-          DEFAULT: '#4A154B',
-          light: '#F7F1F7',
-        },
+        'dark-magenta': '#502050',
+        'soft-pink': '#ee68a4',
+        'grayish-magenta': '#937b92',
+        'grayish-magenta-lighter': '#f7f2f7',
       },
       fontFamily: {
         spartan: ['"League Spartan"', 'sans-serif'],
-      },
-      backgroundImage: {
-        hero: "url('/bg-pattern-top-desktop.svg')",
       },
     },
   },
