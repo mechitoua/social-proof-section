@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Github Repo URL: [https://github.com/mechitoua/social-proof-section](https://github.com/mechitoua/ip-address-tracker)
+- Github Repo URL: [https://github.com/mechitoua/social-proof-section](https://github.com/mechitoua/social-proof-section)
 - Live Site URL: []()
 
 ### Built with
