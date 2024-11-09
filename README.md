@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [https://mechitoua-social-proof-section.vercel.app](https://mechitoua-social-proof-section.vercel.app)
 
 ### Built with
 
@@ -38,7 +38,7 @@ Users should be able to:
 
 ## How to run the project locally
 
-1. Clone the project `git clone https://github.com/mechitoua/social-proof-section.git`
+1. Clone the project `git clone https://github.com/mechitoua/social-proof-section`
 2. Run `pnpm install`
 3. Run `pnpm dev`
 4. Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
